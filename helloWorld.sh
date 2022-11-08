@@ -1,3 +1,7 @@
 #! /bin/zsh
 
-echo "Hello World"
+Name="Nour"
+
+echo "Je m'appelle $Name !"
+
+
