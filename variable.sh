@@ -7,7 +7,6 @@ BIRTHDAY=`date -jf "%b %d, %Y" ${BIRTHDATE} +"%A"`
 # On macOs -d is invalid so put -jf 
 # Set the date form you have to specify the form 
 
-echo $BIRTHDAY
 
 # Testing code - do not change it
 
