@@ -11,6 +11,8 @@ new_array[2]=apricot
 # remember $@ take every arguements so here it's same but it takes all of members 
 
 echo ${#my_array[@]} 
+# ${#variable} take the lengh of variable 
+# and [@] take all of the member from the array 
 
 echo $((5+4)) # no repport with the exercice but if you want use arithmetic, you have to write $(()) ==> like that he understand you 
 # want do some arithmetic function
