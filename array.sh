@@ -31,6 +31,6 @@ echo ${STRINGS[@]}
 echo "The number of names listed in the NAMES array: $NumberOfNames"
 echo "The second name on the NAMES list is:" ${second_name}
 
-#read USER_NAME # no report with the exo (yes also) but the "input" in shell is "read" and you put directly the new variable where 
-## the information will be stocked after "read"
-#echo $USER_NAME
+read USER_NAME # no report with the exo (yes also) but the "input" in shell is "read" and you put directly the new variable where 
+# the information will be stocked after "read"
+echo $USER_NAME
