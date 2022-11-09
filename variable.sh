@@ -26,5 +26,6 @@ else
     echo "BIRTHDAY is incorrect - please retry"
 fi
 
-# ATTENTION !! On macOS you have to put two [[]] for a condition inside if 
+# ATTENTION !! On macOS you have to put two [[]] for a condition inside if
+# Finely not sure.... in arguments.sh the condition just need one [] 
 
